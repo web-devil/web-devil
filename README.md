@@ -7,11 +7,6 @@ I am Andreas, a freelance consultant specializing in roles such as (interim) **M
 - 🌟 Committed to upskilling IT professionals through mentorship and coaching programs 👥
 - 🎓 Leveraging university cooperations to stay at the forefront of technology and industry trends 💡
 
-#### Technical Specialisations
-- eCommerce & Web-Technologies
-- Software-Engineering
-- Business Intelligence
-
 <!--
 **web-devil/web-devil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
