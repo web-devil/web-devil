@@ -8,6 +8,8 @@ I am Andreas, a freelance consultant specializing in roles such as (interim) **_
 - Leveraging university cooperations 🎓 to stay at the forefront of technology and industry trends 💡
 
 The majority of my projects have been transformations for **_eCommerce and Web-Technologies_**, **_Business Intelligence Competence Centers_** while restructuring or building a **_digital unit or IT organisations_**. 
+
+Communication in 🇩🇪🇬🇧🇨🇴
 <!--
 **web-devil/web-devil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
