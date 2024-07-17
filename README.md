@@ -4,6 +4,8 @@ I am Andreas,
 Expert in Business Intelligence & IT-Architecture
 and Upskilling the Digital Workforce in Tech-Industry and Academia
 
+Communication in 🇩🇪🇬🇧🇨🇴
+
 <!--
 I am Andreas, a freelance consultant specializing in roles such as (interim) **_Managing Director Information Technology_**, **_Enterprise Architect_** and **_Head Coach_**. 
 
