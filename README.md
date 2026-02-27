@@ -1,8 +1,6 @@
 ### Enterprise architect and CIO on demand.
 
-Designing and modernizing IT landscapes with a focus on platform engineering, data architecture, and scalable operating models. Experience across eCommerce systems, web technologies, BI environments, and digital unit build-up. 
-
-LinkedIn: https://www.linkedin.com/in/andreaspaech/
+Working at the intersection of platform engineering, data systems, and organizational design — modernizing legacy environments into scalable, observable, and resilient operating models. Experience across eCommerce, web architectures, and BI competence centers.
 
 <!--
 ### Hi there 👋
