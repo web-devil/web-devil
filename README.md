@@ -1,3 +1,10 @@
+Enterprise architect and CIO on demand.
+
+Transforming complex IT landscapes into scalable operating models through target architecture, portfolio discipline, and data-driven strategy.
+
+Background in eCommerce, web technologies, BI platforms, and digital unit build-up.
+
+<!--
 ### Hi there 👋
 
 I am Andreas, a freelance consultant specializing in roles such as (interim) **_Managing Director Information Technology_**, **_Enterprise Architect_** and **_Head Coach_**. 
@@ -11,7 +18,7 @@ The majority of my projects have been transformations for **_eCommerce and Web-T
 
 Communication in 🇩🇪🇬🇧🇨🇴
 
-<!--
+
 **web-devil/web-devil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
