@@ -1,32 +1,9 @@
 ### Enterprise architect and CIO on demand.
 
-Working at the intersection of platform engineering, data systems, and organizational design — modernizing legacy environments into scalable, observable, and resilient operating models. Experience across eCommerce, web architectures, and BI competence centers.
+Working at the intersection of platform engineering, data systems, and organizational design — modernizing legacy environments into scalable, observable, and resilient operating models. Experience across eCommerce, web architectures, cloud data platforms, and BI competence centers.
 
-<!--
-### Hi there 👋
+### Applied Information Systems Research
 
-I am Andreas, a freelance consultant specializing in roles such as (interim) **_Managing Director Information Technology_**, **_Enterprise Architect_** and **_Head Coach_**. 
+I conduct applied socio-technical information systems research at the intersection of software engineering and information management. Across studies on IT professionals, generative AI in software engineering, data platforms, and digital public administration, my work investigates how software-, data-, and AI-based systems are designed, evolved, and governed in organizational practice.
 
-- Passionate about optimizing IT architecture 💼 for sustainable growth, mitigating tech debt, and fostering innovation 🌱
-- Leading the transformation of IT organizations into autonomous teams 🚀 for predictable performance and high team satisfaction 📈
-- Committed to upskilling IT professionals 🌟 through mentorship and coaching programs 👥
-- Leveraging university cooperations 🎓 to stay at the forefront of technology and industry trends 💡
-
-The majority of my projects have been transformations for **_eCommerce and Web-Technologies_**, **_Business Intelligence Competence Centers_** while restructuring or building a **_digital unit or agile IT organisations_**. 
-
-Communication in 🇩🇪🇬🇧🇨🇴
-
-
-**web-devil/web-devil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Communication in 🇩🇪 🇬🇧 🇪🇸
